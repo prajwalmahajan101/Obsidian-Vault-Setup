@@ -1,0 +1,27 @@
+{
+  "palette": {
+    "seed": 6,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": true
+  },
+  "knownTags": {
+    "excalidraw": 1,
+    "dev": 2,
+    "AI": 3,
+    "Components": 4,
+    "not_reviewed": 5,
+    "Introduction": 6,
+    "task": 7,
+    "WIP": 8,
+    "reviewed": 9,
+    "discard": 10,
+    "daily_note": 11,
+    "weekly_note": 12
+  },
+  "_version": 3
+}

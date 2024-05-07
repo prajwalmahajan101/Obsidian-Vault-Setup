@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "580fdbbadd457300",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9286637ab64fcd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aef7599f8998571e",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Task Board.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eca3d41d411b078b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d8e85fde35ccf28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16252f94303c14b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1968bce3198aa31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#discard",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e01c6b13c6eaf8ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "82264e3e40ff4017",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe47f27086c27146",
+        "type": "tabs",
+        "dimension": 61.24031007751937,
+        "children": [
+          {
+            "id": "81a05571eae63582",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Task Board.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -0.9,
+                  "nodeSizeMultiplier": 0.559375,
+                  "lineSizeMultiplier": 0.431770833333333,
+                  "collapse-forces": false,
+                  "centerStrength": 1,
+                  "repelStrength": 1.35416666666667,
+                  "linkStrength": 1,
+                  "linkDistance": 52,
+                  "scale": 1.0000000000000018,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "748677dc2d2c1635",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Task Board.md"
+              }
+            }
+          },
+          {
+            "id": "0643468fc4d4b61c",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1fcb7ce597065d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Task Board.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4eefd585f8e291a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Task Board.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06815396c7cd9008",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "823d65a941ad70aa",
+        "type": "tabs",
+        "dimension": 38.759689922480625,
+        "children": [
+          {
+            "id": "20593e23d12fe656",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5453f55b08a7a41a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 367
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "cmdr:Date Inserter: Open Calendar": false,
+      "cmdr:Templater: Create new note from template": false,
+      "cmdr:Graph view: Open graph view": false,
+      "cmdr:Command palette: Open command palette": false,
+      "cmdr:Git: Commit all changes with specific message": false,
+      "cmdr:Git: Push": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "16252f94303c14b2",
+  "lastOpenFiles": [
+    "SynthiaAI/Weekly Progress",
+    "SynthiaAI/Templates/Weekly Progress Template.md",
+    "SynthiaAI/Templates/Task Template.md",
+    "SynthiaAI/Templates/Daily Task Note Template.md",
+    "SynthiaAI/Templates",
+    "SynthiaAI/Task Notes/Subprocess.md",
+    "SynthiaAI/Task Notes/Streaming Architecture.md",
+    "SynthiaAI/Task Notes/Redis Pub-Sub Model.md",
+    "SynthiaAI/Task Notes/Parallel Knowledge extractor.md",
+    "SynthiaAI/Task Notes",
+    "SynthiaAI/Task Board.md",
+    "SynthiaAI/Excalidraw/FlowDiagram_v_0.2.excalidraw.md",
+    "SynthiaAI/Excalidraw/FlowDiagram_v_0.1.excalidraw.md",
+    "SynthiaAI/Excalidraw/FlowDiagram_v_0.0.excalidraw.md",
+    "SynthiaAI/Excalidraw/Flow Diagram Version.md",
+    "SynthiaAI/Excalidraw",
+    "SynthiaAI",
+    "Task Notes/Redis Pub-Sub Model.md",
+    "Excalidraw/Flow Diagram Version.md",
+    "Task Notes/Parallel Knowledge extractor.md",
+    "Templates/Weekly Progress Template.md",
+    "Templates/Daily Task Note Template.md",
+    "Templates/Task Template.md",
+    "Weekly Progress/Untitled.md",
+    "Task Notes/Subprocess.md",
+    "Index.md",
+    "Task Board.md",
+    "Component Design/GuardRail.md",
+    "Task Notes/Streaming Architecture.md",
+    "Task Notes/Untitled.md",
+    "Weekly Progress",
+    "Daily Notes",
+    "Task Notes",
+    "Component Design",
+    "Templates",
+    "Excalidraw"
+  ]
+}
