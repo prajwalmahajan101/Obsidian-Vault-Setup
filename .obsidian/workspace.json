@@ -11,9 +11,11 @@
             "id": "aef7599f8998571e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Task Board.md"
+                "file": "Study Notes/GO/Variables, Values And Operators.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Task Board.md",
+                "file": "Study Notes/GO/Variables, Values And Operators.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task Board.md"
+                "file": "Study Notes/GO/Variables, Values And Operators.md"
               }
             }
           },
@@ -137,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task Board.md",
+                "file": "Study Notes/GO/Variables, Values And Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task Board.md",
+                "file": "Study Notes/GO/Variables, Values And Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,8 +225,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "16252f94303c14b2",
+  "active": "aef7599f8998571e",
   "lastOpenFiles": [
+    "Study Notes/GO/Introduction.md",
+    "Study Notes/GO/Variables, Values And Operators.md",
+    "Task Board.md",
+    "Study Notes/GO",
+    "Study Notes",
     "SynthiaAI/Weekly Progress",
     "SynthiaAI/Templates/Weekly Progress Template.md",
     "SynthiaAI/Templates/Task Template.md",
@@ -251,15 +258,10 @@
     "Weekly Progress/Untitled.md",
     "Task Notes/Subprocess.md",
     "Index.md",
-    "Task Board.md",
     "Component Design/GuardRail.md",
     "Task Notes/Streaming Architecture.md",
-    "Task Notes/Untitled.md",
     "Weekly Progress",
     "Daily Notes",
-    "Task Notes",
-    "Component Design",
-    "Templates",
-    "Excalidraw"
+    "Task Notes"
   ]
 }

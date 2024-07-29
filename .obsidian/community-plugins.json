@@ -15,5 +15,7 @@
   "obsidian-icon-shortcodes",
   "obsidian-pandoc",
   "obsidian-tasks-plugin",
-  "date-inserter"
+  "date-inserter",
+  "languagetool",
+  "obsidian-languagetool-plugin"
 ]

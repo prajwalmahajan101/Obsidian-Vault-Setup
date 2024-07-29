@@ -3,5 +3,6 @@
   "cssTheme": "Encore",
   "interfaceFontFamily": "Comic Sans MS",
   "nativeMenus": false,
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "textFontFamily": "Mononoki Nerd Font Mono"
 }
